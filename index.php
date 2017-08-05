@@ -5,7 +5,7 @@
  * Description: Disable comments for specific category
  * Author: Cecilia Natale
  * Author URI: http://www.cecilianatale.it
- * Version: 1.0
+ * Version: 0.1.0
  */
 
 add_action( 'the_post', '__2c_wp_check_for_closed' );
